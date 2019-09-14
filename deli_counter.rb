@@ -7,5 +7,4 @@ def line(katz_deli)
       puts "#{index + 1}. #{ele}"
     end
   end
-  
 end
